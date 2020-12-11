@@ -1,0 +1,34 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  display: flex;
+  background-color: rgb(11, 11, 80);
+  height: 70px;
+  padding: 20px;
+  color: white;
+  text-align: left;
+  justify-content: space-between;
+}
+
+nav li {
+  margin-top: 20px;
+  display: inline-block;
+  margin-right: 7em;
+  list-style-type: none;
+}
+
+nav li a {
+  text-decoration: none;
+  font-size: 25px;
+}
+
+.addressFlex {
+  display: flex;
+  justify-content: space-between;
+}
+
+.addressElements {
+  padding: 5px;
+}
